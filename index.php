@@ -112,8 +112,6 @@ $tools = get_from_db(
 
           <?php } ?>
 
-          <?php include "pop-up.php"; ?>
-
         </div>
 
       </div>
